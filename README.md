@@ -12,7 +12,6 @@ Analyze the data to determine if any of the portfolios outperform the broader st
     * Answer the following question: Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index? 
 ---
 ## Analyze the Volatility
-"""
 Analyze the volatility of each of the four fund portfolios and of the S&P 500 Index by using box plots. To do so, complete the following steps:
 
     * Use the Pandas plot function and the kind="box" parameter to visualize the daily return data for each of the four portfolios and for the S&P 500 in a box plot. Be sure to include the title parameter, and adjust the figure size if necessary.
